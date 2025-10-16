@@ -1,3 +1,4 @@
 # mine-server
 
-/workspaces/servidor/minecraft/run_crafty.sh
+/workspaces/mine-server/minecraft/run_crafty.sh
+playit
